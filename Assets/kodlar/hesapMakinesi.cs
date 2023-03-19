@@ -7,7 +7,7 @@ using UnityEngine.UI;
 
 public class hesapMakinesi : MonoBehaviour
 {
-    public TextMeshProUGUI inputText;
+    public Text inputText;
     public Text sonucText;
     int  kontrol,sayac=0;
     float sonuc=0;
